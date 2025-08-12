@@ -1,0 +1,1 @@
+console.log("Mana mata mu mana mataku mata mata")
